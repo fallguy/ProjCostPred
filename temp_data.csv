@@ -1,0 +1,40 @@
+Project,Description,SF_Building,SF_true,Year,Center Number,JV Type,Region,dummy_tier,ACQ,CAP,CBK,CLT,CNT,CNX,COH,CON
+1279,Century City Redevelopment,3000000 ,1,2015,12211,JVC,LA,Flagship,0,48.11,0,2.65,17.14,0,0,288.04
+3097,Topanga - Sears,200000 ,1,2016,12291,JVE,LA,Flagship,0.17,34.76,0,0,14.58,0,0,368.24
+3102,UTC Redevelopment Phase IIA,1000000 ,1,2015,12293,JVE,SD,Flagship,0,59.22,1.02,0,9.33,0,0,374.1
+1619,GSP - Exp Ph.2/Grand Scheme,250000 ,1,2018,12235,JVE,NE,Flagship,0,15.96,0,0,0,0,0,199.49
+3331,UTC - Phase IIB,1000000 ,1,2018,12293,JVE,SD,Flagship,0,21.56,0,0,15.08,0,0,410.89
+1295,Metreon - x,250000 ,1,2011,15200,WHO,NW,Other,410.6,6.76,-42.45,0,0,0.2,0,0.69
+3158,Village at Westfield Topanga,1500000 ,1,2014,12303,JVE,LA,Flagship,0,139.4,-18.36,1.32,0,0,0,125.73
+3310,Valley Fair Ph 1 Garage,150000 ,1,2015,12297,JVE,NW,Flagship,0,214.36,0,0,0,0,0,67.03
+1391,Capital- Mervyn's Box-x,75000 ,1,2009,12209,WHO,NW,Other,199.44,0,0,0,0.02,0,0,5.15
+1088,Vancouver Reno/Cinetopia - x,300000 ,1,2010,12298,WHO,NW,Other,236.84,0,-1.62,0,0,0.11,0,0.22
+1086,UTC - Rob May Redevelopmnt - x,150000 ,1,2011,12293,JVE,SD,Flagship,0,0,2.5,0.23,14.63,1.1,0,112.61
+1178,Siesta Keys (Southgate),40000 ,1,2016,12287,JVE,SE,Other,0,0,0,0,0,0.78,0,185.65
+3139,Valley Fair-Dining Terr/Luxury,100000 ,1,2013,12297,JVE,NW,Other,0,63.65,0,0,0,0,0,35.08
+3312,Santa Anita - Laneway,20000 ,1,2015,12280,JVE,LA,Other,0,8.79,-76.88,0,5.22,0,0,100.16
+3313,Wheaton - AMC (3438),275000 ,1,2015,12305,JVE,SE,Other,0,28.84,0,0,10.88,0,0,22.02
+1891,Eastland - Walmart - x,180000 ,1,2010,15200,WHO,LA,Other,961.21,0,0,0,0,0,0,16.58
+2023,W Valley Costco-Exc Liab(3291),8000 ,1,2013,15200,WHO,LA,Other,0,0,0,10.43,11.41,0,0,69.45
+3134,Montgomery - Condo Box,300000 ,1,2013,12256,JVE,SE,Other,0,55.8,6.69,0,5.49,0,0,78.48
+3307,Culver City - JCP Home,150000 ,1,2015,12230,JVE,LA,Other,0,34.76,0,0,0,0,0,114.83
+3427,GSP Entry #7,10000 ,1,2015,12235,JVC,NE,Flagship,0,1.3,0,0,3.57,0,0,149.45
+3231,Southcenter - Round One,6555 ,1,2014,12286,JVE,NW,Other,0,16.57,0,0,0,0,0,33.04
+3049,Century City-Office Base Bldg,6500 ,1,2011,12211,JVC,LA,Flagship,0,0,0,0,0,0,0.48,258.27
+1861,GreatNorthernTheatre-Excl Liab,5885 ,1,2012,15200,WHO,MW,Other,0,0,0,0,0,0,0,145.45
+3243,UTC - Zara,75000 ,1,2014,12293,JVE,SD,Flagship,0,49.13,0,0,0,0,0,135.77
+3299,Siesta Key - Cobb Theatre,250000 ,1,2015,12287,JVE,SE,Other,0,-28.76,0,3.29,10.9,0,0,12.68
+3087,Roseville Fire - Blue Green -x,30000 ,1,2010,12234,JVC,NW,Other,0,0,0,4.21,0,0,9.44,6.39
+3450,"GSP Entryways 8,9,11,12,17",30000 ,1,2015,12235,JVC,NE,Flagship,0,11.64,0,0,8,0,0,140.46
+3305,GSP IT Infrastructure,2400 ,1,2015,12235,JVC,NE,Flagship,0,2.21,0,0,8.6,0,0,82.23
+3128,Eastland Walmart Buildout - x,180000 ,1,2012,12224,WHO,LA,Other,0,0,0,0,0,0,0,214.02
+3268,Valencia Pad,1589 ,1,2014,12294,JVC,LA,Other,0,0,0,0,0,0,0,171.65
+3342,Horton Offsite - Ex Liab-3053,1488 ,1,2010,15200,JVE,SD,Other,0,0,0,0,0,0,0,212.72
+3090,Santa Anita - Mall Renovation,1356 ,1,2014,12280,JVC,LA,Other,0,0,0,0,19.56,0,0,2.6
+3438,Wheaton South Tower (3133),1270 ,1,2015,12307,JVE,SE,Other,0,0,0,0,0,0,0,201.62
+1080,Plaza Camino Carlsbad Ph 1,1000 ,1,2013,12323,WHO,SD,Other,0,0,0,0,0,6.71,0,1.09
+3220,Siesta Key Reno(South Gate),10000 ,1,2013,12287,JVE,SE,Other,0,0,0,0,0,0,0,93.4
+1386,Solano - Food Court Project-x,100000 ,1,2010,15200,WHO,NW,Other,0,109.76,-64.78,0,0,-10.06,0,0.03
+3052,Sunrise - XSport,120000 ,1,2012,12290,WHO,NE,Other,0,0,0,0,0,0,0,183.19
+1868,Sunrise Walmart,180000 ,1,2014,12290,WHO,NE,Other,0,0,0,0,0,0,0,124.1
+3341,Topanga South Lot Renovation,150000 ,1,2015,12291,JVE,LA,Other,0,0,0,0,0,0,0,149.28

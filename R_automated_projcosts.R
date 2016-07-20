@@ -4,7 +4,7 @@
 ## Data in Read ##
 
 setwd("~/Automation_Tools/Automated Project Cost setup") # is there a way to automat this so it works for anyone?
-dum_data = read.csv("dummy_data_f2.csv", header = TRUE)  # read csv file
+dum_data = read.csv("file:///C:/Users/jpacker/Documents/Jeremy_DS_stuff/ProjCostPred/dummy_data_f2.csv")  # read csv file
 
 ## Cut up Data ##
 dum_data = dum_data
